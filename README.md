@@ -1,4 +1,4 @@
-# Hi there It's __ahMAD__ 👋
+# Hi there It's ____ahMAD____ 👋
 
 I'm a __Django__ and __Python__ developer passionate about building web applications, __API__ s, and __Machine Learning__ projects. I focus on delivering scalable and efficient solutions using cutting-edge technologies. Currently, I'm learning __Celery__ and __Redis__ to robust my skills. Below are some of my core skills:
 
@@ -11,4 +11,4 @@ I'm a __Django__ and __Python__ developer passionate about building web applicat
  - __TensorFlow__ : Implementing deep learning models for computer vision, natural language processing, and more.
 
 ## 🚀 Let’s Connect:
-Reach me wherever possible. It's good to meet y'al __:)__.
+FF to reach me wherever possible. I'd be happy to meet y'all __:)__.
