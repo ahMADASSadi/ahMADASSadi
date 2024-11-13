@@ -21,6 +21,6 @@ FF to reach me wherever possible. I'd be happy to meet y'all __:)__.
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-%2337825F.svg?logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white)
