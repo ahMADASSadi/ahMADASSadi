@@ -18,3 +18,7 @@ FF to reach me wherever possible. I'd be happy to meet y'all __:)__.
 ![Django REST Framework](https://img.shields.io/badge/DRF-3.12%2B-red?logo=django&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-1.16%2B-blue?logo=go&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-5.0%2B-green?logo=celery&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=tensorflow&logoColor=white)
