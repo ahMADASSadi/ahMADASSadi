@@ -23,4 +23,5 @@ I'm a __Django__ and __Python__ developer passionate about building web applicat
 
 ## 🚀 Let’s Connect:
 FF to reach out to me whenever possible. I'd be happy to meet y'all __:)__.
-![Telegram](https://telegram.me/madassandd)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
