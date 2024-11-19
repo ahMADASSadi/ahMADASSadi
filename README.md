@@ -9,10 +9,6 @@ I'm a __Django__ and __Python__ developer passionate about building web applicat
  - __Scikit-learn__: Experienced in building machine learning models for data analysis and predictive solutions.
  - __NumPy & Pandas__: Extensive experience with data manipulation, analysis, and visualization.
  - __TensorFlow__: Implementing deep learning models for computer vision, natural language processing, and more.
-
-## 🚀 Let’s Connect:
-FF to reach out to me whenever possible. I'd be happy to meet y'all __:)__.
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -24,3 +20,7 @@ FF to reach out to me whenever possible. I'd be happy to meet y'all __:)__.
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+## 🚀 Let’s Connect:
+FF to reach out to me whenever possible. I'd be happy to meet y'all __:)__.
+![Telegram](https://telegram.me/madassandd)
