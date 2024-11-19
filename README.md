@@ -9,6 +9,8 @@ I'm a __Django__ and __Python__ developer passionate about building web applicat
  - __Scikit-learn__: Experienced in building machine learning models for data analysis and predictive solutions.
  - __NumPy & Pandas__: Extensive experience with data manipulation, analysis, and visualization.
  - __TensorFlow__: Implementing deep learning models for computer vision, natural language processing, and more.
+
+   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
@@ -23,5 +25,8 @@ I'm a __Django__ and __Python__ developer passionate about building web applicat
 
 ## 🚀 Let’s Connect:
 FF to reach out to me whenever possible. I'd be happy to meet y'all __:)__.
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/madassandd)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/madassandd)
+
