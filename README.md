@@ -11,7 +11,7 @@ I'm a __Django__ and __Python__ developer passionate about building web applicat
  - __TensorFlow__: Implementing deep learning models for computer vision, natural language processing, and more.
 
 ## 🚀 Let’s Connect:
-FF to reach me wherever possible. I'd be happy to meet y'all __:)__.
+FF to reach out to me whenever possible. I'd be happy to meet y'all __:)__.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
