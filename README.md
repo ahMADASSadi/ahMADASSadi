@@ -23,7 +23,7 @@ I'm a __Django__ and __Python__ developer passionate about building web applicat
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-## 🚀 Let’s Connect:
+## <img src="https://raw.githubusercontent.com/jaiguptanick/jaiguptanick/main/handshake.gif" width ="80"> Let’s Connect:
 FF to reach out to me whenever possible. I'd be happy to meet y'all __:)__.
 
 
