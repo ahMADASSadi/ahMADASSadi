@@ -1,4 +1,4 @@
-# Hi there It's ____ahMAD____ 👋
+# Hi there It's ____ahMAD____ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 I'm a __Django__ and __Python__ developer passionate about building web applications, __API__ s, and __Machine Learning__ projects. I focus on delivering scalable and efficient solutions using cutting-edge technologies. Currently, I'm learning __Celery__ and __Redis__ to robust my skills.also __Rust__ and __Go__ are my spare time fun-learning languages. Below are some of my core skills:
 
