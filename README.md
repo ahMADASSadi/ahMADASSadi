@@ -35,6 +35,6 @@ FF to reach out to me whenever possible. I'd be happy to meet y'all __:)__.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/madassandd)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/madassandd)
-[![Linkedin](https://img.shields.io/badge/linkedin-%23E4405F.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madassandd/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madassandd/)
 
               
