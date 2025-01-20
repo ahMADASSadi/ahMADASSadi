@@ -35,4 +35,5 @@ FF to reach out to me whenever possible. I'd be happy to meet y'all __:)__.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/madassandd)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/madassandd)
-
+[![Linkedin]<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="madassandd" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ir.linkedin.com/in/madassandd?trk=profile-badge">Ahmad Asadi</a></div>]
+              
