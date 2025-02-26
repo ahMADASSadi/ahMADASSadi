@@ -1,8 +1,8 @@
-# Hi there It's ____ahMAD____ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi there It's ____ahMAD____
 
 I'm a __Django__ and __Python__ developer passionate about building web applications, __API__ s, and __Machine Learning__ projects. I focus on delivering scalable and efficient solutions using cutting-edge technologies. Currently, I'm learning __Celery__ and __Redis__ to robust my skills.also __Rust__ and __Go__ are my spare time fun-learning languages. Below are some of my core skills:
 
-## <img src="https://github.com/itismohammadreza/itismohammadreza/blob/main/files/code.gif" width="35px"> Skills:
+## Skills:
  - __Python__: Expert in Python programming, building tools, automation scripts, and backends.
  - __Django__: Full-stack web development and API design using Django and Django REST Framework.
  - __REST APIs__: Creating robust and efficient RESTful APIs for various web and mobile applications.
@@ -14,6 +14,7 @@ I'm a __Django__ and __Python__ developer passionate about building web applicat
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-F4AA41.svg?style=for-the-badge&logo=Bruno&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -30,7 +31,7 @@ I'm a __Django__ and __Python__ developer passionate about building web applicat
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 
-## <img src="https://raw.githubusercontent.com/jaiguptanick/jaiguptanick/main/handshake.gif" width ="80"> Let’s Connect:
+## Let’s Connect:
 FF to reach out to me whenever possible. I'd be happy to meet y'all __:)__.
 
 
