@@ -1,6 +1,6 @@
 # Hi there It's ____ahMAD____
 
-I'm a __Python__ developer passionate about building web applications, __API__ s, and __Machine Learning__ projects. I focus on delivering scalable and efficient solutions using cutting-edge technologies. Currently, I'm learning **ElasticStack** and **Django-Ninja** to reinforce my skills.also __Rust__ and __Go__ are my spare time fun-learning languages. Below are some of my core skills:
+I'm a __Python__ developer who loves building web applications, __API__ s, and __Machine Learning__ projects. I focus on delivering scalable and efficient solutions using cutting-edge technologies. Currently, I'm learning **ElasticStack** and **Django-Ninja** to reinforce my skills.also __Rust__ and __Go__ are my spare time fun-learning languages. Below are some of my core skills:
 
 ## Skills:
  - __Python__: Expert in Python programming, building tools, automation scripts, and backends.
