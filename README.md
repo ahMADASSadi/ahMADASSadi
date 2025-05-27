@@ -2,10 +2,7 @@
 
 I'm a __Python__ developer who loves building web applications, __API__ s, and __Machine Learning__ projects. I focus on delivering scalable and efficient solutions using cutting-edge technologies. Currently, I'm learning **ElasticStack** and **Django-Ninja** to reinforce my skills.also __Rust__ and __Go__ are my spare time fun-learning languages. Below are some of my core skills:
 
-## Skills:
- - __Python__: Expert in Python programming, building tools, automation scripts, and backends.
- - __Django__: Full-stack web development and API design using Django and Django REST Framework.
- - __REST APIs__: Creating robust and efficient RESTful APIs for various web and mobile applications.
+## Core Skills:
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
@@ -20,7 +17,6 @@ I'm a __Python__ developer who loves building web applications, __API__ s, and _
 ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
@@ -35,8 +31,8 @@ Feel free to reach out to me whenever possible. I'd be happy to meet y'all __:)_
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/madassandd)
 [![X](https://img.shields.io/badge/X-000?logo=x&logoColor=fff&style=for-the-badge)](https://x.com/madassandd)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-asadi-hengami/)
-              
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/ahmad-assadi-847752361)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:madassandd@gmail.com)
 
 
 
