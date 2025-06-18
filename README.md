@@ -1,6 +1,6 @@
 # Hi there It's ____ahMAD____
 
-I'm a __Python__ developer who loves building web applications, __API__ s, and __Machine Learning__ projects. I focus on delivering scalable and efficient solutions using cutting-edge technologies. Currently, I'm learning **ElasticStack** and **Grafana** to reinforce my skills.also __Rust__ is my spare time fun-learning languages. Below are some of my core skills:
+I'm a __Python__ and **Go** developer who loves building web applications, __API__ s, and __Machine Learning__ projects. I focus on delivering scalable and efficient solutions using cutting-edge technologies. Currently, I'm learning **ElasticStack** and **Grafana** to reinforce my skills.also __Rust__ is my spare time fun-learning languages. Below are some of my core skills:
 
 ## Core Skills:
 
