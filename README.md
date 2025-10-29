@@ -1,12 +1,11 @@
 # Hi there It's ____ahMAD____
 
-Just a Simple dev in love with **PyGoRu**
+in love with **PyGo**
 
 ## Core Skills:
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-008ECF.svg?style=for-the-badge&logo=Gin&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
